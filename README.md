@@ -19,3 +19,19 @@ For my graduation project in my Software Engineering studies, I have developed a
 - CodeIgniter
 - PHP7/HTML5/CSS3/Bootstrap
 
+# Screenshots:
+- Web App:
+![image](https://user-images.githubusercontent.com/39882287/125130006-2b6ce480-e0f8-11eb-9bf7-72fc2f71c493.png)
+![image](https://user-images.githubusercontent.com/39882287/125130040-37f13d00-e0f8-11eb-89b5-22db31d28ee7.png)
+![image](https://user-images.githubusercontent.com/39882287/125130068-43dcff00-e0f8-11eb-9e31-3b71db4bd315.png)
+![image](https://user-images.githubusercontent.com/39882287/125130079-48a1b300-e0f8-11eb-98bc-55f6cd0ac98e.png)
+![image](https://user-images.githubusercontent.com/39882287/125130094-4dfefd80-e0f8-11eb-81a8-848414ac1012.png)
+![image](https://user-images.githubusercontent.com/39882287/125130099-522b1b00-e0f8-11eb-97a9-e26a821a5af2.png)
+![image](https://user-images.githubusercontent.com/39882287/125130114-57886580-e0f8-11eb-8910-4e28a217c7a6.png)
+![image](https://user-images.githubusercontent.com/39882287/125130133-5e16dd00-e0f8-11eb-8bab-f2dc4bde8827.png)
+![Uploading image.png…]()
+
+- AR App:
+
+
+    
