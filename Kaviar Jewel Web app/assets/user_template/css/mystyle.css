@@ -1,0 +1,45 @@
+li, a{
+    font-weight: 500;
+    font-size: 16px;
+    text-decoration: none;
+    color:white;
+}
+
+header{
+    display : flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navlinks{
+list-style: none;
+}
+
+.navlinks li{
+    display:inline-block;
+    padding: 0% 20px;
+}
+
+.navlinks li a:hover{
+    color: purple;
+}
+
+.logo{
+   margin: 25px;
+}
+
+
+.navlinks2 li:hover ul ul {
+    display: block;
+}
+
+.abc li a:hover{
+color: purple;
+}
+
+
+
+
+
+
+
